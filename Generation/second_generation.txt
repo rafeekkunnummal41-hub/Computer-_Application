@@ -1,0 +1,3 @@
+Third Generation (1964-1971)
+This generation is defined by the integrated circuit (IC), which was invented by Jack Kilby and Robert Noyce. It was a small chip, also known as a microchip. Thousands of transistors and other components made computers even smaller, faster, and more affordable. Operating systems were introduced, and IBM's 360 series machines were introduced in this period.​Second Generation (1956-1963)
+The invention of transistors replaced vacuum tubes in computers. Transistors were much smaller, more reliable, and more energy-efficient than vacuum tubes. High-level programming languages like COBOL and FORTRAN were developed, and new machines like the IBM 1401 and IBM 7090 were also introduced in this period.

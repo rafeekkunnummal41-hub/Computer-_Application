@@ -1,0 +1,3 @@
+First Generation (1940-1956)
+The technology used vacuum tubes for circuitry and magnetic drums for memory. These tubes were easily broken, generated a lot of heat, and consumed a huge amount of power. Computers were bigger in size. Programming was done with the help of machine language.
+*Early Computers like ENIAC (Electronic Numerical Integrator and Computer), UNIVAC I (Universal Automatic Computer), and EDVAC (Electronic Delay Storage Automatic Calculator) were the earliest stored-program computers.
